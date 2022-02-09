@@ -1,0 +1,7 @@
+DataSource,ObjectName,IsActive,ProcessPool,ProcessPoolSequence,Layer,FileLocation,sourcekey
+DS,catchment_analysis_active_projects_lead_settlements,Y,7,1,Catchment-Analysis-AWS,catchment_analysis.sql,
+DS,catchment_analysis_active_projects_lead_settlements_rl,Y,7,1,Catchment-Analysis-AWS-RL,catchment_analysis_RL.sql,
+DS,catchment_analysis_active_projects_lead_settlements_all,Y,7,1,Catchment-Analysis-AWS-ALL,catchment_analysis_all_business.sql,
+DS,catchment_analysis_active_projects_sales_all,Y,7,1,Catchment-Analysis-AWS-ALL-sales,catchment_analysis_all_business_sales.sql,
+DS,catchment_analysis_active_projects_inquires_all,Y,7,1,Catchment-Analysis-AWS-ALL-inquires,catchment_analysis_all_business_inquires.sql,
+DS,catchment_analysis_active_projects_all_business_quarterly,Y,7,1,Catchment-Analysis-AWS-ALL-quarter,catchment_analysis_all_business_quarterly.sql,
